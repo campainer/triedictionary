@@ -1,0 +1,31 @@
+.phone-dictionary {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search-input {
+  padding: 10px;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  margin-bottom: 20px;
+}
+
+.name-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.name-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.name-list li:last-child {
+  border-bottom: none;
+}
